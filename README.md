@@ -1,2 +1,2 @@
-# bnak-sentiment-nlp-transformer-bert
+# bank-sentiment-nlp-transformer-bert
 token +ve,neutrakl,negative analysis
